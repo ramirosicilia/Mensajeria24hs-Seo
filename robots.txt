@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fabulous-pixie-a9be1a.netlify.app/sitemap.xml
